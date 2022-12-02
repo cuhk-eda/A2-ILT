@@ -1,0 +1,10 @@
+dataset/ibm_opc_test/t1_0_mask.png
+dataset/ibm_opc_test/t2_0_mask.png
+dataset/ibm_opc_test/t3_0_mask.png
+dataset/ibm_opc_test/t4_0_mask.png
+dataset/ibm_opc_test/t5_0_mask.png
+dataset/ibm_opc_test/t6_0_mask.png
+dataset/ibm_opc_test/t7_0_mask.png
+dataset/ibm_opc_test/t8_0_mask.png
+dataset/ibm_opc_test/t9_0_mask.png
+dataset/ibm_opc_test/t10_0_mask.png
